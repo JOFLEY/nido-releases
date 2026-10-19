@@ -16,6 +16,8 @@ Carpetas que se expanden en el lugar, widgets sobre vidrio y una caja de selecci
 
 **[🌐 nido.serfley.com](https://nido.serfley.com)**
 
+[Vídeo real de 30 segundos](https://nido.serfley.com/#video) · [Reportar un fallo](https://github.com/JOFLEY/nido-releases/issues/new?template=bug_report.yml) · [Sugerir una mejora](https://github.com/JOFLEY/nido-releases/issues/new?template=feature_request.yml)
+
 </div>
 
 ---
@@ -35,6 +37,12 @@ Carpetas que se expanden en el lugar, widgets sobre vidrio y una caja de selecci
 
 Y lo de siempre sigue funcionando: el menú de clic derecho de Windows con tus extensiones, arrastrar a otras apps, la Papelera, Win+D, Ctrl+C / Ctrl+V, F2 y Supr.
 
+## 🧪 Ayuda a probar Nido
+
+Busco personas que lo usen en distintos equipos con Windows 10 u 11. Si algo falla o resulta confuso, [abre un reporte](https://github.com/JOFLEY/nido-releases/issues/new?template=bug_report.yml) con los pasos para reproducirlo, la versión de Nido y tu versión de Windows. También puedes [proponer una mejora](https://github.com/JOFLEY/nido-releases/issues/new?template=feature_request.yml).
+
+Si te sirve y quieres encontrar el proyecto después, puedes darle una estrella en GitHub. Los comentarios de quienes lo prueban ayudan a decidir qué mejorar primero.
+
 ## ⬇️ Instalar
 
 1. Descarga **[Nido-win-Setup.exe](https://github.com/JOFLEY/nido-releases/releases/latest/download/Nido-win-Setup.exe)** (siempre la última versión).
@@ -42,6 +50,8 @@ Y lo de siempre sigue funcionando: el menú de clic derecho de Windows con tus e
 
 > [!NOTE]
 > Windows puede mostrar "Windows protegió su PC" porque el instalador no está firmado: toca **Más información → Ejecutar de todas formas**.
+
+Descarga Nido solo desde este repositorio o desde [nido.serfley.com](https://nido.serfley.com/). El repositorio público contiene los instaladores y la información de las versiones; el código fuente aún no es público.
 
 ## 🔄 Actualizaciones
 

@@ -1,0 +1,25 @@
+name: Sugerir una mejora
+description: Propón algo que haría Nido más útil para ti.
+title: "[Idea] "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Qué intentas hacer
+      description: Describe la tarea o el problema antes de la solución.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Qué cambio te ayudaría
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Contexto adicional
+      description: Puedes añadir ejemplos o capturas sin datos privados.
+    validations:
+      required: false
