@@ -16,7 +16,7 @@ Carpetas que se expanden en el lugar, widgets sobre vidrio y una caja de selecci
 
 **[🌐 nido.serfley.com](https://nido.serfley.com)**
 
-[Vídeo real de 30 segundos](https://nido.serfley.com/#video) · [Reportar un fallo](https://github.com/JOFLEY/nido-releases/issues/new?template=bug_report.yml) · [Sugerir una mejora](https://github.com/JOFLEY/nido-releases/issues/new?template=feature_request.yml)
+[Adelanto de Nido Sala (beta)](https://nido.serfley.com/#video) · [Reportar un fallo](https://github.com/JOFLEY/nido-releases/issues/new?template=bug_report.yml) · [Sugerir una mejora](https://github.com/JOFLEY/nido-releases/issues/new?template=feature_request.yml)
 
 </div>
 
@@ -36,6 +36,10 @@ Carpetas que se expanden en el lugar, widgets sobre vidrio y una caja de selecci
 | 🎨 **Personalización** | Tamaño de íconos, intensidad del vidrio, color por carpeta, perfiles ("Trabajo", "Gaming") y tema claro u oscuro. |
 
 Y lo de siempre sigue funcionando: el menú de clic derecho de Windows con tus extensiones, arrastrar a otras apps, la Papelera, Win+D, Ctrl+C / Ctrl+V, F2 y Supr.
+
+## 🎮 Próximamente: Nido Sala
+
+Estoy preparando una biblioteca para recorrer juegos, aplicaciones y archivos con un mando, además de búsqueda y teclado en pantalla. [Mira el adelanto de 30 segundos](https://nido.serfley.com/#video), montado con capturas de la beta local. **Nido Sala todavía no está incluido en la descarga pública 0.3.0.**
 
 ## 🧪 Ayuda a probar Nido
 
